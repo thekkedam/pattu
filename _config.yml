@@ -1,8 +1,8 @@
 # Website settings
 baseurl: "/"
-base_url: "https://vm.thekkedam.org"
-url: "https://vm.thekkedam.org"
-domain: "vm.thekkedam.org"
+base_url: "https://pattu.thekkedam.com"
+url: "https://pattu.thekkedam.com"
+domain: "pattu.thekkedam.org"
 production: true
 
 # Jekyll build settings
